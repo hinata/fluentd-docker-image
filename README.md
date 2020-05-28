@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is a custom docker image using the official fluentd docker image.
+This is a customized docker image using the official fluentd docker image.
 
 ## Links
 
